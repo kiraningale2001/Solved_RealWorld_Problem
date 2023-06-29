@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='word_frequency',
+    name='Word_Frequency_Counter',
     version='1.0',
     packages=find_packages(),
     install_requires=[
